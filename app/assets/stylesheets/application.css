@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+.img1{
+	background-image: url(test1.jpg);
+}
+.img2{
+	background-image: url(test2.jpg);
+}2
+.img3{
+	background-image: url(test3.jpg);
+}
+.img4{
+	background-image: url(test4.jpg);
+}
+.img5{
+	background-image: url(test5.jpg);
+}
