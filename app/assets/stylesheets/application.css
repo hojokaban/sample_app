@@ -19,7 +19,7 @@
 }
 .img2{
 	background-image: url(test2.jpg);
-}2
+}
 .img3{
 	background-image: url(test3.jpg);
 }
@@ -28,4 +28,8 @@
 }
 .img5{
 	background-image: url(test5.jpg);
+}
+
+#container{
+	height: 500px;
 }
